@@ -1,7 +1,24 @@
-# mern-expense-tracker-second-edition
-# MERN Expense Tracker
+# 💰 MERN Expense Tracker  
 
-An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory.
+A full-stack expense tracking application built with the MERN stack. This app helps you track your income and expenses efficiently with an intuitive UI and detailed financial insights.  
+
+## 🚀 Features  
+
+- User Authentication (Login/Register)  
+- Add, Edit & Delete Transactions  
+- Filter Transactions by Date & Category  
+- Dynamic Expense Charts  
+- Responsive UI for mobile & desktop  
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React, Redux, Material-UI  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Authentication:** JWT  
+- **State Management:** Redux  
+
+
+
 
 ![MERN Expense Tracker](https://mernbook.s3.amazonaws.com/git+/expensetracker.png "MERN Expense Tracker")
 
